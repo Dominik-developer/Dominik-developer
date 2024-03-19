@@ -7,8 +7,3 @@
 - ⚡ Fun fact: I used to hate coding 😅
 - 🛠I work with HTML, CSS, PHP, mySQL, phpmyadmin and little of JS with libraries
 - 🪛I also know a thing or two about: Python and C++
-
-<!---
-Dominik-developer/Dominik-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
