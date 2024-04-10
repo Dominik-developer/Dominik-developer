@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I used to hate coding 😅
 - 🛠 I work with HTML, CSS, PHP, mySQL, phpmyadmin and JS with libraries
 - 🪛 I also know a thing or two about: Python and C++
-- ⭐️ Please appreciate my work and give me a start!
+- ⭐️ Please appreciate my work and give me a star!
