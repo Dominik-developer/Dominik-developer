@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dominik-developer
 - 👀 I’m interested in coding in general by specifically in web development
-- 🌱 I’m currently learning responsive web development, mySQL
-- 🧩 At least one new project every mont
+- 🌱 I’m currently learning, mySQL
+- 🧩 At least one two new project every month
 - 💞️ I’m looking to collaborate on some website project
 - 🤲 I’m open to learning new things and gaining expireince
 - 📫 How to reach me: by e-mail: will be there soon; or by my Linkedin: linkedin.com/in/dominik-szczepański-2a5287294
