@@ -4,7 +4,7 @@
 - 🧩 At least one two new project every month
 - 💞️ I’m looking to collaborate on some website project
 - 🤲 I’m open to learning new things and gaining expireince
-- 📫 How to reach me: by e-mail: will be there soon; or by my Linkedin: linkedin.com/in/dominik-szczepański-2a5287294
+- 📫 How to reach me: by e-mail: will be there soon; or by my Linkedin: link in profile <!--linkedin.com/in/dominik-szczepański-2a5287294-->
 - ⚡ Fun fact: I used to hate coding 😅
 - 🛠 I work with HTML, CSS, PHP, mySQL, phpmyadmin and JS with libraries
 - 🪛 I also know a thing or two about: Python and C++
