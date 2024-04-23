@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dominik-developer
-- 👀 I’m interested in coding in general by specifically in web development
-- 🌱 I’m currently learning, mySQL
+- 👀 I am interested in coding, especially in web development
+- 🌱 I’m currently learning mySQL
 - 🧩 At least one two new project every month
 - 💞️ I’m looking to collaborate on some website project
 - 🤲 I’m open to learning new things and gaining expireince
