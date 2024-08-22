@@ -14,7 +14,7 @@
 
   
   <br>* I use JS i my projects but I'm begginer at it.
-  <br>* I'm also familiar with basics of basics of React with TypeScript.
+  <br>* I also have basics of basics of React with TypeScript.
 
 
   <br><b>=== GETTING BACK ON GITHUB‼️ === </b>
