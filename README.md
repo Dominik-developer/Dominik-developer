@@ -1,3 +1,5 @@
+# About me:
+
 - 👋 Hi, I’m @Dominik-developer
 - 👀 I am interested in coding, especially in web development
 - 🌱 I’m currently learning more about PHP, mySQL; building new big project (private for now)
@@ -6,8 +8,13 @@
 - 🤲 I’m open to learning new things and gaining expireince
 - 📫 How to reach me: by e-mail: will be there soon; or by my Linkedin: link in profile <!--linkedin.com/in/dominik-szczepański-2a5287294-->
 - ⚡ Fun fact: I used to hate coding 😅
-- 🛠 I work with HTML, CSS, PHP, mySQL, phpmyadmin and JS with libraries
+- 🛠 On daily I work with HTML, CSS, PHP, mySQL and phpmyadmin 
 - 🪛 I also know a thing or two about: Python and C++
 - ⭐️ Please appreciate my work and give me a star!
 
-=== GETTING BACK ON GITHUB ===
+  
+  <br>* I use JS i my projects but I'm begginer at it.
+  <br>* I'm also familiar with basics of basics of React with TypeScript.
+
+
+  <br><b>=== GETTING BACK ON GITHUB‼️ === </b>
