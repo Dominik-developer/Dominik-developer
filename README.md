@@ -1,3 +1,6 @@
+<!--h1 align="center">Hi 👋, I'm Dominik </h1>-->
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dominik-devekoper&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>-->
+
 # About me:
 
 - 👋 Hi, I’m @Dominik-developer
@@ -22,3 +25,4 @@
 ## My stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dominik-developer&show_icons=true&locale=en&layout=compact" alt="Dominik-developer-lang-stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dominik-developer&show_icons=true&locale=en" alt="Dominik-developer-stats" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dominik-developer&" alt="peter-kimanzi" /></p>-->
