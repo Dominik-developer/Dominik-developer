@@ -15,12 +15,13 @@
 - 🪛 I also know a thing or two about: Python and C++
 - ⭐️ Please appreciate my work and give me a star!
 
-  
   <br>* I use JS i my projects but I'm begginer at it.
   <br>* I also have basics of basics of React with TypeScript.
 
+  <b>‼️ If you need documentation to project create issue, tag me and I will add it. ‼️</b>
 
-  <br><b>=== GETTING BACK ON GITHUB‼️ === </b>
+
+  <br><b>=== GETTING BACK ON GITHUB<!--‼️--> === </b>
 
 ## My stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dominik-developer&show_icons=true&locale=en&layout=compact" alt="Dominik-developer-lang-stats" /></p>
