@@ -5,7 +5,7 @@
 
 <!-- - 👋 Hi, I’m @Dominik-developer -->
 - 👀 I am interested in coding, especially in web development
-- 🌱 I’m currently learning more about PHP, mySQL; building new big project (private for now)
+- 🌱 I’m currently learning more about PHP, mySQL; building new big project 
 - 🧩 At least one new project every month; sometimes with delay
 - 💞️ I’m looking to collaborate on some website project
 - 🤲 I’m open to learning new things and gaining expireince
