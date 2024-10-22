@@ -18,7 +18,7 @@
   <br>* I use JS in my projects but I'm begginer at it.
   <br>* I also have basics of basics of React with TypeScript.
 
-## Documentation 
+## Documentation: 
   <b>‼️ If you need documentation to project create issue, tag me and I will add it. ‼️</b>
   <br><br>
   
