@@ -27,4 +27,4 @@
 ## My stats: 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dominik-developer&show_icons=true&locale=en&layout=compact" alt="Dominik-developer-lang-stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dominik-developer&show_icons=true&locale=en" alt="Dominik-developer-stats" /></p>
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dominik-developer&" alt="peter-kimanzi" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dominik-developer&show_icons=true&locale=en" alt="Dominik-developer-stats" /></p>
