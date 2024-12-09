@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dominik </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dominik-devekoper&label=Profile%20views&color=0e75b6&style=flat" alt="Dominik-developer-visitors-stats" /> </p>
 
+## ‼️xampp on mac doesn't work so I won't post any new PHP project till they fix it‼️
+## i will work only on educational or fronend repositories but since im busy, no much will be happening anyway here
+
+
 # About me:
 
 <!-- - 👋 Hi, I’m @Dominik-developer -->
