@@ -16,11 +16,11 @@
 - 📫 How to reach me: by e-mail: will be there soon; or by my Linkedin: link in profile <!--linkedin.com/in/dominik-szczepański-2a5287294-->
 - ⚡ Fun fact: I used to hate coding 😅
 - 🛠 On daily I work with HTML, CSS, PHP, MySQL
-- 🪛 I also know a thing or two about: Python, C++
+- 🪛 I also know a thing or two about: JavaScript, Python, C++, TypeScript and React
 - ⭐️ Please appreciate my work and give me a star!
 
   <br>* I use JS in my projects but I'm begginer at it.
-  <br>* I also have basics of basics of React with TypeScript.
+
 
 ## Documentation: 
   <b>‼️ If you need documentation to project create issue, tag me and I will add it. ‼️</b>
