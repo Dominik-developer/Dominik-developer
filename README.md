@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dominik </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dominik-devekoper&label=Profile%20views&color=0e75b6&style=flat" alt="Dominik-developer-visitors-stats" /> </p>
 
-## ‼️xampp on mac doesn't work so I won't post any new PHP project till they fix it‼️
-## i will work only on educational or fronend repositories but since im busy, no much will be happening anyway here
+## xampp on mac doesn't work so I won't post any new PHP project
+## Coding is like video games for me, i do it mostly for fun 
 
 
 # About me:
@@ -19,7 +19,8 @@
 - 🪛 I also know a thing or two about: JavaScript, Python, C++, C, TypeScript and React
 - ⭐️ Please appreciate my work and give me a star!
 
-  <br>* I use JS in my projects but 90% of it is from web so i do not include taht in my stats. 
+  <br> * I use JS in my projects but 90% of it is from web so i do not include taht in my stats.
+  <br> * I am looking for PHP intership for summer 2025 (other languages are also okay)
 
 
 ## Documentation: 
