@@ -19,7 +19,7 @@
 - 🪛 I also know a thing or two about: JavaScript, Python, C++, C, TypeScript and React
 - ⭐️ Please appreciate my work and give me a star!
 
-  <br> * I use JS in my projects but 90% of it is from web so i do not include taht in my stats.
+  <br> * I use JS in my projects but 90% of it is from web so i do not include that in my stats.
   <br> * I am looking for PHP intership for summer 2025 (other languages are also okay)
 
 
