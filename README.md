@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dominik </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dominik-devekoper&label=Profile%20views&color=0e75b6&style=flat" alt="Dominik-developer-visitors-stats" /> </p>
 
-## xampp on mac doesn't work so I won't post any new PHP project
-## Coding is like video games for me, i do it mostly for fun 
+Coding is like video games for me, i do it mostly for fun
 
+### Check out my best project: [CorelyPHP](https://github.com/Dominik-developer/CorelyPHP). It is full stack blog solution with CMS build in vanilla PHP.
 
 # About me:
 
