@@ -3,9 +3,9 @@
 
 Coding is like video games for me, i do it mostly for fun
 
-# Check out my best project: [CorelyPHP](https://github.com/Dominik-developer/CorelyPHP). It is full stack blog solution with CMS build in vanilla PHP.
+<!--# Check out my best project: [CorelyPHP](https://github.com/Dominik-developer/CorelyPHP). It is full stack blog solution with CMS build in vanilla PHP.-->
 
-### Check out my PHP portfolio that I built to get an internship: [PHP intership portfolio ](https://github.com/stars/Dominik-developer/lists/php-intership-portfolio)
+<!--### Check out my PHP portfolio that I built to get an internship: [PHP intership portfolio ](https://github.com/stars/Dominik-developer/lists/php-intership-portfolio)-->
 
 # About me:
 
