@@ -27,7 +27,7 @@ Coding is like video games for me, i do it mostly for fun
 
 ## Info:
   * I use JS in my projects but 90% of it is from web so i do not include that in my stats.
-  * I am looking for PHP intership for summer 2025 (other languages are also okay)
+  * I am looking for PHP, C and embeded programming interships.
   
 ## Documentation: 
   <b>‼️ If you need documentation to project create issue, tag me and I will add it. ‼️</b>
