@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dominik </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dominik-devekoper&label=Profile%20views&color=0e75b6&style=flat" alt="Dominik-developer-visitors-stats" /> </p>
 
+<b> On my way to become the best engineer 🦾</b>
+
 Coding is like video games for me, i do it mostly for fun
 
 <!--# Check out my best project: [CorelyPHP](https://github.com/Dominik-developer/CorelyPHP). It is full stack blog solution with CMS build in vanilla PHP.-->
@@ -23,12 +25,13 @@ Coding is like video games for me, i do it mostly for fun
 -->
 
 
-<p> HTML, CSS, PHP, C, C++ </p>
+<p> I use PHP, C, C++ </p>
 
+<!--
 ## Info:
   * I use JS in my projects but 90% of it is from web so i do not include that in my stats.
   * I am looking for PHP, C and embeded programming interships.
-  
+  -->
 ## Documentation: 
   <b>‼️ If you need documentation to project create issue, tag me and I will add it. ‼️</b>
   <br><br>
