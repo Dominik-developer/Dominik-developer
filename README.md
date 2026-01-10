@@ -3,7 +3,7 @@
 
 <b> On my way to become the best engineer 🦾</b>
 
-Coding is like video games for me, i do it mostly for fun
+<p> Coding is like video games for me, i do it mostly for fun </p>
 
 <!--# Check out my best project: [CorelyPHP](https://github.com/Dominik-developer/CorelyPHP). It is full stack blog solution with CMS build in vanilla PHP.-->
 
@@ -32,14 +32,15 @@ Coding is like video games for me, i do it mostly for fun
   * I use JS in my projects but 90% of it is from web so i do not include that in my stats.
   * I am looking for PHP, C and embeded programming interships.
   -->
-## Documentation: 
+### Documentation: 
   <b>‼️ If you need documentation to project create issue, tag me and I will add it. ‼️</b>
   <br><br>
   
  <!-- <br><b>=== GETTING BACK ON GITHUB‼️ === </b> -->
 
-## My stats: 
-<p><img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dominik-developer&show_icons=true&locale=en&layout=compact&hide=javascript,scss" alt="Dominik-developer-lang-stats" /></p>
+<!--## My stats: 
+<p><img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dominik-developer&show_icons=true&locale=en&layout=compact&hide=javascript,scss" alt="Dominik-developer-lang-stats" /></p>-->
 <!-- &theme=tokyonight -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dominik-developer&show_icons=true&locale=en" alt="Dominik-developer-stats" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dominik-developer&show_icons=true&locale=en" alt="Dominik-developer-stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dominik-developer&show_icons=true&locale=en" alt="Dominik-developer-stats" /></p>
+-->
